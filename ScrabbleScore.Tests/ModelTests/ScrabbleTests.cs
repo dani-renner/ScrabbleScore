@@ -9,8 +9,11 @@ namespace ScrabbleScore.Tests
     [TestMethod]
     public void ScrabbleConstructor_CreatesInstanceofScrabble_Scrabble()
     {
-      Scrabble newScrabble = new Scrabble();
+      Scrabble newScrabble = new Scrabble("ok");
       Assert.AreEqual(typeof(Scrabble),newScrabble.GetType());
     }
+    
+    // [TestMethod]
+    // public void 
   }
 }
