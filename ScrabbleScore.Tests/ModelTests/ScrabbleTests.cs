@@ -13,7 +13,12 @@ namespace ScrabbleScore.Tests
       Assert.AreEqual(typeof(Scrabble),newScrabble.GetType());
     }
     
-    // [TestMethod]
-    // public void 
+    [TestMethod]
+    public void Points_ReturnsPoints_Int()
+    {
+      Scrabble newScrabble = new Scrabble("code");
+      int points = newScrabble.Points();
+      Assert.AreEqual(points,7);
+    }
   }
 }
