@@ -11,7 +11,16 @@ namespace ScrabbleScore
         Console.WriteLine("Please enter a word. (No numbers or characters.)");
         string word = Console.ReadLine();
         Scrabble newScrabble = new Scrabble(word);
-        Console.WriteLine("Points = {0}",newScrabble.Points());
+        try
+        {
+          Console.WriteLine("Points = {0}",newScrabble.Points());
+        } 
+        catch(Exception ex)
+        {
+          Console.WriteLine("Error! Please enter a single word with no numbers or characters.");
+
+        }
+
         Main();
 
       }
