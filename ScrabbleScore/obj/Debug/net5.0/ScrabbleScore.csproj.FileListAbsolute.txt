@@ -1,0 +1,16 @@
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.csprojAssemblyReference.cache
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.GeneratedMSBuildEditorConfig.editorconfig
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.AssemblyInfoInputs.cache
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.AssemblyInfo.cs
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.csproj.CoreCompileInputs.cache
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.exe
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.deps.json
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.runtimeconfig.json
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.runtimeconfig.dev.json
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.dll
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ref\ScrabbleScore.dll
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net5.0\ScrabbleScore.pdb
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.dll
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ref\ScrabbleScore.dll
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.pdb
+W:\dropbox\documents\epicodus\csharp\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net5.0\ScrabbleScore.genruntimeconfig.cache
